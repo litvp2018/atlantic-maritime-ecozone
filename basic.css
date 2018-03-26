@@ -1,8 +1,8 @@
 /* THIS IS THE THIRD CSS WHICH WAS MADE FOR MY GEOGRAPHY ECOZONE PROJECT. */
-/* THIS REVISION v.0.2 MARCH 20th */
+/* THIS REVISION v.0.5 MARCH 26th */
 
 		body {
-    		   background-color: lightgrey;
+    		   background-color: black;
   		   background-image: url("background.png");
    		   background-repeat: repeat;
    		   background-position: right top;
@@ -10,7 +10,7 @@
 		}
 
 		p, table {
-  		   font-family: "Trebuchet MS", sans-serif;
+  		   font-family: "Trebuchet MS", Helvetica, sans-serif;
   		   font-size: 20px;
 		   color: rgb(237 , 237, 237);
 		   text-align: center;
@@ -30,7 +30,7 @@
 
 		ol, ul {
 		   list-style-type: none;
-  		   font-family: "Trebuchet MS", sans-serif;
+  		   font-family: "Trebuchet MS", Helvetica, sans-serif;
   		   font-size: 22px;
 		   color: rgb(255, 170, 0);
 		   text-align: center;
@@ -49,7 +49,7 @@
 		}
 
 		h1 {
-		   font-family: "Trebuchet MS", sans-serif;
+		   font-family: "Trebuchet MS", Helvetica, sans-serif;
 		   font-size: 40px;
 		   color: rgb(255, 250, 250);
 		   text-align: center;
@@ -62,7 +62,7 @@
 
 		
 		h2 {
-		   font-family: "Trebuchet MS", sans-serif;
+		   font-family: "Trebuchet MS", Helvetica, sans-serif;
 		   font-size: 34px;
 		   color: rgb(240, 240, 240);
  		   text-align: center;
@@ -72,7 +72,7 @@
 		}
 
 		h3 {
-		   font-family: "Trebuchet MS", sans-serif;
+		   font-family: "Trebuchet MS", Helvetica, sans-serif;
 		   font-size: 28px;
 		   color: rgb(200, 200, 200);
  		   text-align: center;
