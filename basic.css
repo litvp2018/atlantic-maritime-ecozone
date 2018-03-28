@@ -29,12 +29,13 @@
 		}
 		
 		p.flat {
-  		   margin-left: auto;
-   		   margin-right: auto;
-  		   padding-top: 10px;
- 		   padding-right: 5px;
- 		   padding-bottom: 10px;
- 		   padding-left: 5px;
+		   text-align: center;
+  		   margin-left: 0px;
+   		   margin-right: 0px;
+ 		   padding-right: 20px;
+ 		   padding-left: 20px;
+  		   padding-top: 12px;
+ 		   padding-bottom: 12px;
 		   background-color: rgba(32, 22, 61, 0.5);
 		   filter: drop-shadow(4px 4px 8px black);
 		   /* for most browsers (Firefox, Chrome, Edge, ...)*/
@@ -156,9 +157,9 @@
 		   background-color: rgba(32, 22, 61, 0.0);
 		   margin-bottom: 80px;
 		   margin-top: 5px;
-		   font-size: 34pt;
+		   font-size: 24pt;
 		   color: rgb(237 , 237, 237);
-		   line-height: 36pt;
+		   line-height: 26pt;
 		}
 
 		#Copyright {
@@ -167,8 +168,9 @@
 		}
 
 		#Top {
-		   font-size: 38pt;
-		   line-height: 5vw;
+		   margin-top: 120pt;
+		   font-size: 36pt;
+		   line-height: 38pt;
 		}
 		
 		#Return {
