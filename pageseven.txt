@@ -36,13 +36,7 @@ THIS REVISION: v.0.2 MARCH 20th
 		<p> 
 		    <img class= "bordered" src = "images/halifax.jpg" width = "1100" height = "760" alt = 
 		    "Photo of streetart found in Halifax. " /> Above: Halifax is full of neat sights and places to hang around, such as this piece of street art found on 1729 Barrington St., created by Jason Botkin.
-		</p>	
-		<p> 
-		    <img class= "bordered" src = "images/halifax2.jpg" width = "1100" height = "760" alt = 
-		    "Photo of restaurants along the waterfront in Halifax. " /> Above: At night, the city of Halifax remains bustling with people. There's also the occasional live band performing along the waterfront, inviting everyone for a listen. In the above photo, Joe Murphy & The Water Street Blues Band was performing several pieces in front of a restaurant, drawing a small crowd of happy people. 
-		</p>
-		<p> In conslusion, from my previous experiences, I can say with confidence that whether you enjoy hiking through stunning views of nature or heading to a local restaurant for a bite, the Atlantic Maritime Ecozone is sure to have just about anything in store.
-		</p>
+		</p>		
 		<p> Thanks for reading! </p>
 		<p id= "Return"> Return to the <a href = "#Top">top</a> of the page. </p>
 	   	<p id= "Copyright"> &copy; Trevor Li 2018, all rights reserved. All images by Trevor Li unless noted. Background image by the 

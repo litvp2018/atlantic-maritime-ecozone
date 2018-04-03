@@ -32,16 +32,28 @@ THIS REVISION: v.0.2 MARCH 20th
 		</p>
 		<h2 id= "One"> - Human Activity - </h2>
 		<p> Along coastal areas in the Atlantic Maritime Ecozone, numerous major cities and other forms of land use are widespread. Humans have populated large portions of the mainly coastal areas for needs such as agriculture, logging, urban development, fishing, and tourism.
-		    As a result, there have been negative consequences. For example, the Acadian forests are being fragmented, due to logging, industrial development, and the construction of roadways and infrastructure. Coastal wetlands are also facing fragmentation as a result of similar reasons. A specdies of wildlife found in the AME that experiences habitat loss due to human factors includes the American Marten, which requires large areas of undisturbed, mature softwood trees.
+		    As a result, there have been negative consequences. For example, the Acadian forests are being fragmented, due to logging, industrial development, and the construction of roadways and infrastructure. Coastal wetlands are also facing fragmentation as a result of similar reasons.
 		</p>
 		<p> 
-		    <img class= "bordered" src = "images/sydneynight.jpg" width = "1100" height = "760" alt = 
-		    "Photo of the waterfront at Sydney, NS " /> Above: The waterfront of Sydney, Nova Scotia at night, with the iconic "big fiddle" to the left. Sydney is the second largest population centre in Nova Scotia, with a population of 31,597 in 2011. Sydney has numerous important harbours and ports, serving large container ships as well as cruise ships.
+		    <img class= "bordered" src = "images/highlands1.jpg" width = "500" height = "760" alt = 
+		    "Photo of typical vegetation that can be found in the highlands of the Atlantic Maritime Ecozone. " /> Above: Typical vegetation that can be found in the highlands of the Atlantic Maritime Ecozone. 
+		    The spruce trees in the foreground are most likely to be red spruces. Much of the ground cover consists of ostrich ferns. Did you know that the young
+		    shoots ("fiddleheads") of the ostrich fern can be eaten?
 		</p>		
+		<p> <img class= "bordered" src = "images/berries.jpg" width = "1600" height = "300" alt = 
+		    "Edible berries found in the AME." /> Above: Common edible wild berries found in the Atlantic Maritime Ecozone. Left to right: blueberry, cranberry, raspberry, bunchberry. </p>
+		<p> Common animals found in the AME includes whitetail deer and the moose. There are only three large predators: the lynx, the bobcat, and the black bear. Other common animals that thrive in the AME includes red foxes, minks, river otters, martens (similar to weasels and stoats), muskrats, raccoons and striped skunks. Coastal areas of the AME are home to a wide range of aquatic mammals, including harbour seals, gray seals, hooded seals, harp seals, orcas, and blue whales.
+		    The AME is also know for it's many lobster, crab, and shrimp fisheries, found off the coasts, in the Atlantic Ocean.
+		</p>
+		<p> 
+		    <img class= "bordered" src = "images/lobster.jpg" width = "880" height = "580" alt = 
+		    "Large lobster from PEI." /> Above: A large lobster caught off the coast of PEI, which was then brought to Charlottetown. This lobster was not sold (to be eaten) due to it's size. 
+		</p>
 		<p> Thanks for reading! </p>
 		<p id= "Return"> Return to the <a href = "#Top">top</a> of the page. </p>
 	   	<p id= "Copyright"> &copy; Trevor Li 2018, all rights reserved. All images by Trevor Li unless noted. Background image by the 
 		    <a href= "https://wiki.ubuntu.com/Lubuntu/Artwork/Incoming/Xenial/Box">Lubuntu Artwork Team</a></p>
+<!-- Change link for the validator to match this webpage! (Link not updated) -->
 	   	<a href="https://validator.w3.org/check?uri=https://litvp2018.github.io/atlantic-maritime-ecozone/pagesix.html">
 		    <img src="html5_with_css3_+_semantics.png" width = "165" height = "64" alt="HTML5 with CSS3 and Semantics">
 		</a>
